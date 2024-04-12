@@ -1,0 +1,15 @@
+{
+  "name": "ratingproject",
+  "version": "1.0.0",
+  "description": "advanced game rating",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "yatagarrasu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
